@@ -22,7 +22,7 @@ class SudokuSolver {
         Scanner sc = new Scanner(System.in);
         int[][] board = new int[9][9];
 
-        System.out.print("Enter a sudoku board");
+        System.out.println("Enter a sudoku board");
         for (int i = 0; i < 9; i++) {
             for (int j = 0; j < 9; j++) {
                 board[i][j] = sc.nextInt();
@@ -37,6 +37,7 @@ class SudokuSolver {
 
     // print the board out in the console
     public static void printBoard(int[][] board) {
+        System.out.println("- - - - - - - - - -");
         for (int i = 0; i < board.length; i++) {
             if (i%3 == 0 && i != 0) {
                 System.out.println("- - - - - - - - - -");
