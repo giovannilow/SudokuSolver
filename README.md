@@ -1,6 +1,6 @@
 # Sudoku solver
 
-Sudoku solver use a DFS backing algorithm in Java to solve a 9x9 sudoku board. A project to learn about Depth-First Search.
+Sudoku solver uses a DFS backing algorithm in Java to solve a 9x9 sudoku board. A project to learn about Depth-First Search.
 
 ## Installation
 
