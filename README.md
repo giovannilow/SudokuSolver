@@ -10,11 +10,11 @@ You can fork it and use the source code. Input your own sudoku board (You can ge
 
 Enter a sudoku board here.
 
-![Start](https://github.com/giovannilow/SudokuSolver/blob/main/Starting.png)
+![Start](https://github.com/giovannilow/SudokuSolver/blob/main/images/Starting.png)
 
 An example of the board being solved.
 
-![Result](https://github.com/giovannilow/SudokuSolver/blob/main/Result.png)
+![Result](https://github.com/giovannilow/SudokuSolver/blob/main/images/Result.png)
 
 ## Contributing
 Pull requests are welcome. I guess lol.
